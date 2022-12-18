@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Evan827h
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Computer Science with concentration in Software Engineering and a minor in Computer Engineering
+- 🌱 I Recently Graduated with a Bachelors of Science in Computer Science with concentration in Software Engineering and a minor in Computer Engineering
 - 📫 How to reach me ehayne15@uncc.edu
